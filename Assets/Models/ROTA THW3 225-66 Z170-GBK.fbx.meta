@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 1a31bacc751521f4593b3d02976bb5e2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube.001
+    100004: Cube.002
+    100006: Cube.003
+    100008: Cube.004
+    100010: Cube.005
+    100012: Cube.006
+    100014: Cube.007
+    100016: Cube.008
+    100018: Cube.009
+    100020: Cube.010
+    100022: Cube.011
+    100024: Cube.012
+    100026: Cube.013
+    100028: Cube.014
+    100030: Cube.015
+    100032: Cube.016
+    100034: Cube.017
+    100036: Cube.018
+    100038: //RootNode
+    100040: SCHUNK-0190663 PNK-G 200-6, 1
+    100042: SCHUNK-0190663 PNK-G 200-6, 1.001
+    100044: SCHUNK-0190663 PNK-G 200-6, 1.002
+    100046: SCHUNK-1366706 ROTA THW3 225-66 Z170-GBK, 0
+    100048: Text
+    100050: Text.001
+    100052: Text.002
+    100054: Text.003
+    100056: Text.004
+    100058: Text.005
+    100060: Text.006
+    100062: Text.007
+    100064: Text.008
+    100066: Text.009
+    400000: Cube
+    400002: Cube.001
+    400004: Cube.002
+    400006: Cube.003
+    400008: Cube.004
+    400010: Cube.005
+    400012: Cube.006
+    400014: Cube.007
+    400016: Cube.008
+    400018: Cube.009
+    400020: Cube.010
+    400022: Cube.011
+    400024: Cube.012
+    400026: Cube.013
+    400028: Cube.014
+    400030: Cube.015
+    400032: Cube.016
+    400034: Cube.017
+    400036: Cube.018
+    400038: //RootNode
+    400040: SCHUNK-0190663 PNK-G 200-6, 1
+    400042: SCHUNK-0190663 PNK-G 200-6, 1.001
+    400044: SCHUNK-0190663 PNK-G 200-6, 1.002
+    400046: SCHUNK-1366706 ROTA THW3 225-66 Z170-GBK, 0
+    400048: Text
+    400050: Text.001
+    400052: Text.002
+    400054: Text.003
+    400056: Text.004
+    400058: Text.005
+    400060: Text.006
+    400062: Text.007
+    400064: Text.008
+    400066: Text.009
+    2100000: Material.002
+    2100002: Material.001
+    2100004: Negro
+    2100006: Material.003
+    2100008: Material.004
+    2100010: Material.005
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Cube.002
+    2300006: Cube.003
+    2300008: Cube.004
+    2300010: Cube.005
+    2300012: Cube.006
+    2300014: Cube.007
+    2300016: Cube.008
+    2300018: Cube.009
+    2300020: Cube.010
+    2300022: Cube.011
+    2300024: Cube.012
+    2300026: Cube.013
+    2300028: Cube.014
+    2300030: Cube.015
+    2300032: Cube.016
+    2300034: Cube.017
+    2300036: Cube.018
+    2300038: SCHUNK-0190663 PNK-G 200-6, 1
+    2300040: SCHUNK-0190663 PNK-G 200-6, 1.001
+    2300042: SCHUNK-0190663 PNK-G 200-6, 1.002
+    2300044: SCHUNK-1366706 ROTA THW3 225-66 Z170-GBK, 0
+    2300046: Text
+    2300048: Text.001
+    2300050: Text.002
+    2300052: Text.003
+    2300054: Text.004
+    2300056: Text.005
+    2300058: Text.006
+    2300060: Text.007
+    2300062: Text.008
+    2300064: Text.009
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Cube.002
+    3300006: Cube.003
+    3300008: Cube.004
+    3300010: Cube.005
+    3300012: Cube.006
+    3300014: Cube.007
+    3300016: Cube.008
+    3300018: Cube.009
+    3300020: Cube.010
+    3300022: Cube.011
+    3300024: Cube.012
+    3300026: Cube.013
+    3300028: Cube.014
+    3300030: Cube.015
+    3300032: Cube.016
+    3300034: Cube.017
+    3300036: Cube.018
+    3300038: SCHUNK-0190663 PNK-G 200-6, 1
+    3300040: SCHUNK-0190663 PNK-G 200-6, 1.001
+    3300042: SCHUNK-0190663 PNK-G 200-6, 1.002
+    3300044: SCHUNK-1366706 ROTA THW3 225-66 Z170-GBK, 0
+    3300046: Text
+    3300048: Text.001
+    3300050: Text.002
+    3300052: Text.003
+    3300054: Text.004
+    3300056: Text.005
+    3300058: Text.006
+    3300060: Text.007
+    3300062: Text.008
+    3300064: Text.009
+    4300000: SCHUNK-1366706 ROTA THW3 225-66 Z170-GBK, 0
+    4300002: Text
+    4300004: Text.001
+    4300006: Text.002
+    4300008: Text.003
+    4300010: Text.004
+    4300012: Cube
+    4300014: Cube.001
+    4300016: Cube.002
+    4300018: Cube.003
+    4300020: Cube.004
+    4300022: Cube.005
+    4300024: Cube.006
+    4300026: Cube.007
+    4300028: Cube.008
+    4300030: Cube.009
+    4300032: Cube.010
+    4300034: Cube.011
+    4300036: Cube.012
+    4300038: Cube.013
+    4300040: Cube.014
+    4300042: Cube.015
+    4300044: Cube.016
+    4300046: Cube.017
+    4300048: Cube.018
+    4300050: Text.005
+    4300052: Text.006
+    4300054: Text.007
+    4300056: Text.008
+    4300058: Text.009
+    4300060: SCHUNK-0190663 PNK-G 200-6, 1
+    4300062: SCHUNK-0190663 PNK-G 200-6, 1.001
+    4300064: SCHUNK-0190663 PNK-G 200-6, 1.002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="rotaNCA" size="6.000000 2.393617" />
+    <ImageTarget name="magnosMFRS" size="6.000000 2.387211" />
+    <ImageTarget name="gripperPZN100" size="6.000000 2.376554" />
+    <ImageTarget name="gripperPGNP100" size="6.000000 2.387211" />
+    <ImageTarget name="abpPLUS" size="6.000000 2.381883" />
+    <ImageTarget name="rotaTHW3" size="6.000000 2.390417" />
+    <ImageTarget name="GRIPPER_2" size="6.000000 2.385937" />
+    <ImageTarget name="GRIPPER_1" size="6.000000 2.371875" />
+    <ImageTarget name="ROTA_THW3" size="6.000000 2.376563" />
+    <ImageTarget name="ROTA_NCO" size="6.000000 2.385937" />
+    <ImageTarget name="TABLE" size="6.000000 2.385937" />
+    <ImageTarget name="TABLE_MAGNETIC" size="6.000000 2.376563" />
+  </Tracking>
+</QCARConfig>

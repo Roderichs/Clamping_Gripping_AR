@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9aa0dde4b91ec32408470a963c95b76b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SCHUNK FagoPro
+  fontNames:
+  - SCHUNK FagoPro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3e8394838debc004fa40bc886a4ec450, type: 3}
+  - {fileID: 12800000, guid: 29faf69ec08e37b4286d7563a663a50c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

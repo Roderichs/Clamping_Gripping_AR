@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Mordazas-02" size="6.000000 8.987517" />
+    <ImageTarget name="EquippedbySCHUNK" size="6.000000 4.000000" />
+    <ImageTarget name="Equipped_by_Synergie_1018" size="6.000000 2.383954" />
+    <ImageTarget name="Almacen01" size="6.000000 4.000000" />
+  </Tracking>
+</QCARConfig>
