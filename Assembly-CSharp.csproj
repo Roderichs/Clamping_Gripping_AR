@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6E1661B0-2F46-E968-4DB5-41C558D3E355}</ProjectGuid>
+    <ProjectGuid>{A1E8B020-68A8-2F74-D587-341D5F02CE91}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -80,25 +80,25 @@
      <None Include="Assets\StreamingAssets\Vuforia\AR_PROYECT.xml" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
  <Reference Include="UnityEngine.Purchasing">
- <HintPath>/Users/rodrigo/Downloads/SCHUNK AR/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
+ <HintPath>/Users/rodrigo/Documents/SCHUNK_AR/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Purchasing">
- <HintPath>/Users/rodrigo/Downloads/SCHUNK AR/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
+ <HintPath>/Users/rodrigo/Documents/SCHUNK_AR/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/rodrigo/Downloads/SCHUNK AR/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/rodrigo/Documents/SCHUNK_AR/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>/Users/rodrigo/Downloads/SCHUNK AR/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>/Users/rodrigo/Documents/SCHUNK_AR/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>/Users/rodrigo/Downloads/SCHUNK AR/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>/Users/rodrigo/Documents/SCHUNK_AR/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/rodrigo/Downloads/SCHUNK AR/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Users/rodrigo/Documents/SCHUNK_AR/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>/Users/rodrigo/Downloads/SCHUNK AR/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>/Users/rodrigo/Documents/SCHUNK_AR/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Hub/Editor/2018.4.36f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -302,7 +302,7 @@
  <HintPath>/Applications/Unity/Hub/Editor/2018.4.36f1/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>/Users/rodrigo/Downloads/SCHUNK AR/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>/Users/rodrigo/Documents/SCHUNK_AR/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>/Applications/Unity/Hub/Editor/2018.4.36f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -652,9 +652,9 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="VuforiaScripts.csproj">
-      <Project>{C8200804-13E8-1BCD-6927-7BAC06611355}</Project>      <Name>VuforiaScripts</Name>    </ProjectReference>
+      <Project>{0C5272BB-03AB-5568-C2F4-A6BDAEC9EF4E}</Project>      <Name>VuforiaScripts</Name>    </ProjectReference>
     <ProjectReference Include="VuforiaEditorScripts.csproj">
-      <Project>{548162A1-A64A-3DDB-2D7B-5BCF21C80D02}</Project>      <Name>VuforiaEditorScripts</Name>    </ProjectReference>
+      <Project>{A93C9E97-6FFF-762D-336F-6577B1F01A51}</Project>      <Name>VuforiaEditorScripts</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
