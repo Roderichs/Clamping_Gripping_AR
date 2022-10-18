@@ -60,8 +60,8 @@ of the physical catalog.
 
 **GNU General Public License v3.0**
 
-Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+*Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.*
 
 ## Conclusion
 
-The development of augmented reality **(AR)** applications is a great challenge to create immersive environments; the next project sought to create a digital catalog to support vendors. The objective will be to continue updating and improving the application to create a tool that allows breaking the frontiers of digitization.
+*The development of augmented reality **(AR)** applications is a great challenge to create immersive environments; the next project sought to create a digital catalog to support vendors. The objective will be to continue updating and improving the application to create a tool that allows breaking the frontiers of digitization.*
